@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github\\workflows",
+    "\\tests"
+  ],
+  "SelectedNode": "\\playwright.config.ts",
+  "PreviewInSolutionExplorer": false
+}
