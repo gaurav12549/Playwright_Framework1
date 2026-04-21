@@ -10,7 +10,7 @@ export class LoginPage {
   constructor(page: Page) {
     this.page = page;
     this.username = page.locator('#username');
-    this.password = page.locator('#password');
+    this.password = page.locator('#passw');
     this.loginBtn = page.locator('#submit');
     this.banner = page.locator('//strong');
   }
